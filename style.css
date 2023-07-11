@@ -176,6 +176,10 @@
     margin-top: 100px;
     
 }
+.sign .btn:hover{
+     background-color: rgb(210, 30, 186);
+   
+}
 .Off{
     color: #E55473;
 }
@@ -256,6 +260,10 @@
     border: none;
     border-radius: 10px;
     margin-left: 5px;
+ }
+ .five-section .btn-2:hover{
+    background-color: rgb(210, 30, 186);
+    
  }
 
 
