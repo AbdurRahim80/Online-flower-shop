@@ -67,6 +67,35 @@
 }
 
 /* End banner section here */
+/* start favourite flower section */
+.Favourite-section{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 140px;
+    margin-left: 140px;
+}
+.hr-solid{
+    width: 300px;
+    border: 3px solid;
+    margin: 0 auto;
+    border-bottom: none;
+
+}
+.flower{
+    display: flex;
+    margin-top: 15px;
+
+}
+.div-1{
+
+    background-color: antiquewhite;
+    padding: 18px;
+    margin: 20px;
+    border: 1px solid;
+    text-align: justify;
+    color: black;
+}
+/* start favourite flower section */
 
 /* Start featuerd flower second section */
 .featured-title {
