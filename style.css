@@ -91,9 +91,14 @@
     background-color: antiquewhite;
     padding: 18px;
     margin: 20px;
-    border: 1px solid;
+    box-shadow: 1px 0px 5px red;
+    border-radius: 10px;
     text-align: justify;
     color: black;
+    transition: .5s;
+}
+.div-1:hover{
+    box-shadow: 1px 0px 15px red;
 }
 /* start favourite flower section */
 
@@ -272,7 +277,8 @@ footer{
     text-align: center;
     transform: translate(-50%,-50%);
 }
-.flower{
+.flower-2{
+    display: inline;
     color: #E55473;
 }
 .footer-contain h2{
